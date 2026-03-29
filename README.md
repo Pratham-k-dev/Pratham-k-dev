@@ -1,4 +1,4 @@
->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main-Backend%20Engineer-blue?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -60,15 +60,15 @@ I am a developer who prioritizes **logic and system-level thinking** over aesthe
 
 ## 📊 GitHub Ecosystem
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratham&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham&theme=tokyonight&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratham-k-dev&theme=tokyonight&show_icons=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-k-dev&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ## 📬 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/Pratham"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>
+<a href="https://www.linkedin.com/in/pratham-kulkarni-5253a8335/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>
 <a href="mailto:pratham.k3007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
 </p>
 
