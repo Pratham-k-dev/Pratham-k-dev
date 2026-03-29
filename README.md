@@ -9,11 +9,12 @@
 
 ## 💫 Profile & Philosophy
 > **"Focusing on the architecture beneath the surface."**
-I am a developer who prioritizes **logic and system-level thinking** over aesthetics. I specialize in solving complex DSA problems and building robust backend systems that scale.
 
-- 🧠 **Mastering:**  Algorithms & Data Structures.
-- 🛠️ **Current Build:** An AI-driven Career Progress Tracker.
-- ⚡ **Passion:** Production level code, optimized database schemas and Competitive Coding.
+I am a developer focused on **problem solving and system-level thinking**, with a strong foundation in Data Structures and Algorithms. Currently transitioning from solving problems to building backend systems with real-world constraints.
+
+* 🧠 **Mastering:** Algorithms & Data Structures 
+* 🛠️ **Current Build:** AI-driven Career Progress Tracker
+* ⚡ **Focus:** Writing clean backend logic, improving database design, and strengthening fundamentals for scalable systems
 
 ---
 
