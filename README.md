@@ -21,7 +21,7 @@ I am a developer who prioritizes **logic and system-level thinking** over aesthe
 <p align="left">
   <a href="https://leetcode.com/u/pratham_coder/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/Pratham_k314"><img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/cry_map_60"><img src="https://img.shields.io/badge/CodeChef-3-Star%20Coder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/cry_map_60"><img src="https://img.shields.io/badge/CodeChef-3%20Star%20Coder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ I am a developer who prioritizes **logic and system-level thinking** over aesthe
 
 ## 📊 GitHub Ecosystem
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratham-k-dev&theme=tokyonight&show_icons=true&hide_border=false" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratham-k-dev&theme=tokyonight&show_icons=true&hide_border=false" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-k-dev&theme=tokyonight&hide_border=false" />
 </p>
 
@@ -72,6 +72,6 @@ I am a developer who prioritizes **logic and system-level thinking** over aesthe
 <a href="mailto:pratham.k3007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
 </p>
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=pratham&icon=0&color=0" />
-</p>
+</p> -->
