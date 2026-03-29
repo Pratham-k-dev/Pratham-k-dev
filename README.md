@@ -1,4 +1,4 @@
-
+<h1 align="center">Pratham Kulkarni</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main-Backend%20Engineer-blue?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -11,9 +11,9 @@
 > **"Focusing on the architecture beneath the surface."**
 I am a developer who prioritizes **logic and system-level thinking** over aesthetics. I specialize in solving complex DSA problems and building robust backend systems that scale.
 
-- 🧠 **Mastering:** Advanced Algorithms & Data Structures.
-- 🛠️ **Current Build:** An AI-driven Career Intelligence Engine.
-- ⚡ **Passion:** High-performance code and optimized database schemas.
+- 🧠 **Mastering:**  Algorithms & Data Structures.
+- 🛠️ **Current Build:** An AI-driven Career Progress Tracker.
+- ⚡ **Passion:** Production level code, optimized database schemas and Competitive Coding.
 
 ---
 
